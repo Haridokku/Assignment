@@ -1,0 +1,29 @@
+.ist-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.time {
+  color: #475569;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.logo {
+  width: 50px;
+  margin-left: 20px;
+}
+.title {
+  color: #475569;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.domain {
+  color: #64748b;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.delete-icon {
+  width: 50px;
+  align-self: flex-end;
+}
