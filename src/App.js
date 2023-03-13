@@ -118,7 +118,7 @@ class App extends Component {
               value={searchInput}
             />
           </div>
-          {searchResults.length() === 0 && (
+          {searchResults.length === 0 && (
             <p className="displays">There is no history to show</p>
           )}
 
